@@ -3,7 +3,7 @@ Task:Create an appointment system and flowchart for civil engineering students u
 Date: December 16,2022 <br>
 Build: Python <br>
 
-<h1 style="text:center;">Visualization of the program. </h1>
+<h1 style="text-align:center;">Visualization of the program. </h1>
 
 ![appointment system](https://user-images.githubusercontent.com/122611993/212318664-6e968898-fd83-4ca1-8b72-11acbe36c514.png)
 
